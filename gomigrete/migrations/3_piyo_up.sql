@@ -1,0 +1,1 @@
+INSERT INTO book (category_id,title) VALUES (10,'サルのこしかけ');
